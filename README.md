@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shamiul Islam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React and Javascript
-- 💞️ I’m looking to collaborate on Fontend development
+- 🌱 I’m currently learning React and JavaScript
+- 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me ...
 
 <!---
