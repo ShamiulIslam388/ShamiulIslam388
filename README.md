@@ -2,10 +2,10 @@
 # Shamiul Islam 
  React Developer | Frontend Engineer | JavaScript Enthusiast 🚀
 
-🚀 Seeking new opportunities as a Mid-Level React Developer 🚀
+🚀 Seeking new opportunities as a Frontend Developer 🚀
 
 Welcome to my Github profile! I'm Shamiul Islam, 
-a passionate and dedicated Mid-Level React Developer with expertise in building robust and scalable web applications.
+a passionate and dedicated Frontend Developer with expertise in building robust and scalable web applications.
 With a solid foundation in React ⚛️, Redux 🔄, Next.js ⚡, and JavaScript, I strive to deliver high-quality code and exceptional user experiences.
 
 ✨Technical Proficiencies✨
