@@ -1,6 +1,6 @@
 ```markdown
 # Shamiul Islam 
-Mid-Level React Developer | Frontend Engineer | JavaScript Enthusiast 🚀
+ React Developer | Frontend Engineer | JavaScript Enthusiast 🚀
 
 🚀 Seeking new opportunities as a Mid-Level React Developer 🚀
 
